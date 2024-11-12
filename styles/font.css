@@ -1,0 +1,19 @@
+@font-face {
+    font-family:"IranYekan";
+    src: url("../fonts/iranyekan/Qs_Iranyekan.ttf")
+}
+@font-face {
+    font-family:"IranYekan light";
+    src: url("../fonts/iranyekan/Qs_Iranyekan\ light.ttf");
+}
+@font-face {
+    font-family:"IranYekan medium";
+    src: url("../fonts/iranyekan/Qs_Iranyekan\ medium.ttf");
+}
+
+@font-face {
+    font-family:"IranYekan bold";
+    src: url("../fonts/iranyekan/Qs_Iranyekan\ bold.ttf");
+}
+
+
